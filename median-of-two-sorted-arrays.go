@@ -1,3 +1,6 @@
+/*
+added desc
+*/
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	i := 0
 	j := 0
